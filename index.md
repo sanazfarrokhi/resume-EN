@@ -1,3 +1,5 @@
+<img src="https://avatars3.githubusercontent.com/u/74496324?s=400&u=d5ff97b67cdf8e26531c5a94a82623165d4cd4df&v=4">
+
 ### About Me
 
 I am sanaz farokhi
