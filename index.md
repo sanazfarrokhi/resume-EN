@@ -34,4 +34,4 @@ I am studying computer engineering at PNU Tehran shomal  University.
 ### Other Accounts
   nothing
   
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://sanazfarrokhi.github.io/resume-Fa/"> Resume </a>
